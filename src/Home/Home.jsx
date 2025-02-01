@@ -346,7 +346,7 @@ const Home = () => {
           </div>
         ))}
       </div>
-      <div className="footer">
+      <div className="footer" style={{background:theme === 'day' ? '#202A44' : 'black'}}>
         <div className="footer-image">
           <img src={iconone} alt="" />
           <img src={icontwo} alt="" />
