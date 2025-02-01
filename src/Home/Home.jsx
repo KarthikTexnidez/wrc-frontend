@@ -248,8 +248,7 @@ const Home = () => {
           height: "auto",
           display: "flex",
           justifyContent: "center",
-          marginTop: "50px",
-          marginBottom: "50px",
+          backgroundColor: theme === "day" ? "white" : "black"
         }}
         className="button"
       >
@@ -263,6 +262,8 @@ const Home = () => {
             color: "white",
             fontFamily: "poppins",
             fontWeight: "300",
+            marginTop: "50px",
+          marginBottom: "50px",
           }}
         >
           Subscribe For Updates
