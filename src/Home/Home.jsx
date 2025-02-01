@@ -2,7 +2,7 @@ import "./Home.css";
 import wrclogo from "./assets/white logo wrc.png";
 import rallylogo from "./assets/rallywhitelogo.png";
 import navlogo from "./assets/navigationbarwhite.png";
-import heroimage from "./assets/hero.png";
+import heroimage from "./assets/hero.jpg";
 import wrcgreylogo from "./assets/black logo wrc.png";
 import polandflag from "./assets/poland-national-flag-transparent-free-png.webp";
 import swedenflag from "./assets/sweden png logl.png";
