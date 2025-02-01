@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Poppins';
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root
+{
+  --db : #202A44;
+  --dr : #AC0000;
+  --bg:#F4F4F4;
+}
+
